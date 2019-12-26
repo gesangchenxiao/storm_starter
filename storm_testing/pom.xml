@@ -11,6 +11,12 @@
 
     <artifactId>storm_testing</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.storm</groupId>
+            <artifactId>storm-core</artifactId>
+        </dependency>
+    </dependencies>
 
 
 </project>
